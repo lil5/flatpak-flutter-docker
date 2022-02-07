@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.example.Acme</id>
+  <name>Acme</name>
+  <summary>Acme summary</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>0BSD</project_license>
+  <recommends>
+    <control>keyboard</control>
+  </recommends>
+  <developer_name>John Doe</developer_name>
+  <url type="homepage">https://example.com</url>
+  <description>
+    <p>Lorem ipsum dolor sit amet, consectetur</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">https://via.placeholder.com/150</image>
+    </screenshot>
+  </screenshots>
+  <launchable type="desktop-id">com.example.Acme.desktop</launchable>
+  <releases>
+    <release version="1.0" date="2022-02-02"/>
+  </releases>
+  <content_rating type="oars-1.1"></content_rating>
+  <update_contact>dev@example.com</update_contact>
+</component>

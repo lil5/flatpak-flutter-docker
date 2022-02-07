@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Acme
+Icon=com.example.Acme
+Exec=/app/bin/acme %u
+Categories=Development;
+Keywords=Example;Acme;
